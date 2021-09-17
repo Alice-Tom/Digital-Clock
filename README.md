@@ -3,7 +3,7 @@ Digital Clock using HTML CSS Js
 Hosted with ❤ by GitHub  
 
 Here is a preview of the Project. <br>
-<a href="https://coderiderr.github.io/digital-clock/">Live Demo</a>
+<a href="https://alice-tom.github.io/Digital-Clock/">Live Demo</a>
 
 ## Editing / Personalisation
 
